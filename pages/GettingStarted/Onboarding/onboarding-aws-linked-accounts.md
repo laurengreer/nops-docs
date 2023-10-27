@@ -1,6 +1,6 @@
 ---
 title: Onboarding AWS Linked Accounts
-keywords: setup, onboarding
+keywords: setup, onboarding, terraform
 tags: [getting_started, onboarding]
 sidebar: mydoc_sidebar
 permalink: onboarding-aws-linked-accounts.html
